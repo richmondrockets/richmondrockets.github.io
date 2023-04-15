@@ -14,6 +14,8 @@ Tuesdays 6-7 pm: Under 9 Meteors, Under 10 Galaxy
 
 Thursdays 6-7 pm: Under 12 Titans
 
+Saturday mornings:  Mini Rockets for our youngest players (4-6 years)
+
 Matches are normally played on Saturdays in the Hambleton and Richmondshire JFL.
 
 [back](./)
