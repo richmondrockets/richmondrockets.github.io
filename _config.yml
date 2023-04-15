@@ -1,5 +1,13 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: Richmond Rockets Junior Football Club
+description: A friendly North Yorkshire club for children of all abilities
 show_downloads: true
-google_analytics:
+google_analytics: <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVSH3YG0Y4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BVSH3YG0Y4');
+</script>
 theme: jekyll-theme-architect
