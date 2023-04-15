@@ -4,9 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[About our club](./another-page.html).
+# [About our club](./another-page.html).
 
-[Training](./training.html).
+# [Training](./training.html).
 
 There should be whitespace between paragraphs.
 
